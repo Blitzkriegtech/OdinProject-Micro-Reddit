@@ -1,26 +1,23 @@
+# The Odin Project Micro-reddit app project
 
-# README
+``
+    This is a project requirement in The Odin Project platform for Ruby on Rails fullstack web developer path. This app project is an introduction to the BASICS of Ruby on Rails framework.
+``
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## References
 
-Things you may want to cover:
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/) by Michael Hartl
+- [The Odin Project - Micro Reddit](https://www.theodinproject.com/lessons/ruby-on-rails-micro-reddit)
+- [Ruby on Rails Guides - Getting Started](https://guides.rubyonrails.org/v8.0/getting_started.html)
 
-* Ruby version
+### Getting Started
 
-* System dependencies
+To get started with the app, clone the repo and then install the needed gems:
+```
+$ bundle install
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+### Project Status:
+```
+Static pages (In development)
+```
