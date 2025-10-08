@@ -63,7 +63,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "rails-controller-testing", "~> 1.0.5"
-  gem "minitest", "~> 5.20"
+  gem "minitest", "~> 5.26"
 end
 
 group :development do
